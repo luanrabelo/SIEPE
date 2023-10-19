@@ -16,15 +16,18 @@
 <p>Figura 4. Interface gráfica do dataFishing, mostrando algumas opções de buscas e filtragem de dados, assim como a lista contendo os resultados da mineração, para teste, foi utilizada 150 espécies de Carangidae obtidas do BOLD Systems.</p>
 <hr>
 <img src="https://github.com/luanrabelo/SIEPE/blob/stable/Figura_5.png" alt="Figura 5" width="100%"/>
-<p>Figura 5. Arquivo de saída do RepyteR, mostrando algumas informações sobre a identificação das repetições, como o número de copias, posição, sequência repetitiva entre outras. Há a opção de exportar as informações para um arquivo do excel.</p>
+<p>Figura 5. Tempo da obtenção de dados de sequências e de taxonomia utilizando o dataFishing.</p>
 <hr>
 <img src="https://github.com/luanrabelo/SIEPE/blob/stable/Figura_6.png" alt="Figura 6" width="100%"/>
-<p>Figura 6. Visualização da posição da repetição no genoma, a visualização do genoma pode ser circular ou linear para comparação.</p>
+<p>Figura 6. Arquivo de saída do RepyteR, mostrando algumas informações sobre a identificação das repetições, como o número de copias, posição, sequência repetitiva entre outras. Há a opção de exportar as informações para um arquivo do excel.</p>
 <hr>
 <img src="https://github.com/luanrabelo/SIEPE/blob/stable/Figura_7.png" alt="Figura 7" width="100%"/>
-<p>Figura 7. Interface do dashMICOS, onde é possível visualizar os dados, fazer comparações e extrair informações.</p>
+<p>Figura 7. Visualização da posição da repetição no genoma, a visualização do genoma pode ser circular ou linear para comparação.</p>
 <hr>
 <img src="https://github.com/luanrabelo/SIEPE/blob/stable/Figura_8.png" alt="Figura 8" width="100%"/>
-<p>Figura 8. Comparação dos mitosgenomas utilizando a ferramnenta dashMICOS.</p>
+<p>Figura 8. Interface do dashMICOS, onde é possível visualizar os dados, fazer comparações e extrair informações.</p>
+<hr>
+<img src="https://github.com/luanrabelo/SIEPE/blob/stable/Figura_9.png" alt="Figura 9" width="100%"/>
+<p>Figura 9. Comparação dos mitosgenomas utilizando a ferramnenta dashMICOS.</p>
 <hr>
 </div>
